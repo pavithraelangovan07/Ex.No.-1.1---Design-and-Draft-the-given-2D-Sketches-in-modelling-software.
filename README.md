@@ -1,7 +1,9 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
-
+## NAME:PAVITHRA E
+## REF NO:24010962
+## DATE:4/12/2024
 To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## REQUIREMENTS
@@ -42,6 +44,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![edm1 Drawing v0 pdf pdf](https://github.com/user-attachments/assets/bddcb81b-b5be-4914-86ac-467611905715)
 
 
 ## RESULT
